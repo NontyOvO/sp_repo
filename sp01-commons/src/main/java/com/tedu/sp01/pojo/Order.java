@@ -16,5 +16,5 @@ public class Order {
 	private User user;
 	private List<Item> items;
 	
-	//ssss
+	//s
 }
